@@ -1,6 +1,26 @@
 
 **I will try and update this GitHub repo as much as I can with as much info as possible, for anyone familiar with git and GitHub, please make contributions to this repo as the course progresses so we can use this as a central location for information sharing.**
 
+
+# ToDo
+
+AZ-303 add study links ms learn links exam mapping
+AZ-304 add study links ms learn links exam mapping
+AZ-104 add study links ms learn links exam mapping
+
+Add Recommended downloads list
+
+Add Powershell Content
+
+Find content for AD DNS Networking ect ect
+
+VScode plugin download links
+
+Markdown Cheat Sheet for committing to this guide
+
+Quiz builder / example questions
+
+
 ---
 
 # Week 1 (4 days) 
