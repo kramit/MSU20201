@@ -68,9 +68,15 @@ $Head = @"
 <hr>
 "@
 
+$body = @"
+<div class="wrapper">
+$fragall
+</div>
+"@
 
 
-$report = ConvertTo-Html -Title "Report" -head $head -Body $fragall -CssUri ".\reportstyle.css"
+
+$report = ConvertTo-Html -Title "Report" -head $head -Body $body -CssUri ".\reportstyle.css"
 
 $report | Out-File -Encoding UTF8 .\report.html
 
