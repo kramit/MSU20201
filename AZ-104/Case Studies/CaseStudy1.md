@@ -16,8 +16,8 @@ Acme will be manually migrating 2 software applications into the cloud hosted on
 The Windows based machine will need to have installed IIS ready to host an older public facing website to show the latest tartan paint patterns. For bonus points change the IIS default page to a more interesting placeholder page.
 
 
-1x Linux (ubunutu) based machine:
-The linux machine will be hosting a publicly accessible guest FTP server installed and configured for clients to download the latest CAD designs for left handed screwdrivers
+1x Linux (Ubuntu) based machine:
+The Linux machine will be hosting a publicly accessible guest FTP server installed and configured for clients to download the latest CAD designs for left handed screwdrivers
 
 data for these requirements will be provided by Acme internally and configured post-deployment by Acme employees
 
@@ -29,14 +29,14 @@ Remote access cannot be performed over the public internet, only via an addition
 
 ## Logs (bonus points)
 
-For bonus points set up logging for the WAG to a Log Analytics Workspace and quite a kusto query to create a dashboard widget for network traffic
+For bonus points set up logging for the WAG to a Log Analytics Workspace and quite a Kusto query to create a dashboard widget for network traffic
 
 https://docs.microsoft.com/en-us/azure/application-gateway/log-analytics
 
 
 ## Backup
 
-Acme inc requires full backups of both VM images using an Azure based solution so administrators can restore the full machines in the event of a failure
+Acme Inc requires full backups of both VM images using an Azure based solution so administrators can restore the full machines in the event of a failure
 
 ## Storage
 
