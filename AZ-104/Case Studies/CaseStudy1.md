@@ -13,7 +13,7 @@ They are looking to move some of the hosting to a cloud based solution and retir
 Acme will be manually migrating 2 software applications into the cloud hosted on 2 separate virtual machines.
 
 1x Windows Server based machine:
-The Windows based machine will need to have installed IIS ready to host an older public facing website to show the latest tartan paint patterns
+The Windows based machine will need to have installed IIS ready to host an older public facing website to show the latest tartan paint patterns. For bonus points change the IIS default page to a more interesting placeholder page.
 
 
 1x Linux (ubunutu) based machine:
@@ -26,6 +26,13 @@ data for these requirements will be provided by Acme internally and configured p
 The FTP and HTTP/S sites will be be required to be protected by a Web Application Gateway and Firewall solution restricting external access only to ports 80/21/443.
 
 Remote access cannot be performed over the public internet, only via an additional jump-box or bastion host access. (For bonus points attempt a remote access solution using a 3rd party tool hosted in Azure e.g. https://guacamole.apache.org/ )
+
+## Logs (bonus points)
+
+For bonus points set up logging for the WAG to a Log Analytics Workspace and quite a kusto query to create a dashboard widget for network traffic
+
+https://docs.microsoft.com/en-us/azure/application-gateway/log-analytics
+
 
 ## Backup
 
