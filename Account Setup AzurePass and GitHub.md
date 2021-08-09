@@ -40,3 +40,33 @@ Students must follow these instructions carefully as replacement Azure Pass code
 
 ---
 
+# GitHub
+
+Do you know how to use git? 
+
+### Yes
+
+Awesome
+
+### No
+
+Watch this
+
+https://www.youtube.com/watch?v=MJUJ4wbFm_A
+
+Seriously, don't watch anything else until you watch this. Then you be more like 
+
+
+
+# GitHub
+
+Do you have a GitHub Account? 
+
+### Yes
+
+Good! Have a star. 
+
+### Yes
+
+https://github.com/  go register
+
