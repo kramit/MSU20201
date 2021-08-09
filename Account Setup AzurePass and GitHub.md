@@ -54,9 +54,9 @@ Watch this
 
 https://www.youtube.com/watch?v=MJUJ4wbFm_A
 
-Seriously, don't watch anything else until you watch this. Then you be more like 
+Seriously, don't watch anything else until you watch this. Then you be more like. 
 
-
+![Know Git](https://raw.githubusercontent.com/kramit/MSU20201/f673664b571839add1f6f235f9037e7aa0cb3a96/Images/i-know-git-basics.jpg?token=ABH7DPFN2EQHSSMXH2G7473BCECJK)
 
 # GitHub
 
@@ -69,4 +69,39 @@ Good! Have a star.
 ### Yes
 
 https://github.com/  go register
+
+Download GitHub Desktop
+
+
+---
+
+# VSCode
+
+Got VSCode? Good. No? go download
+
+https://code.visualstudio.com/
+
+You probably want to check out Scotts VScode video when you get a chance
+
+https://www.youtube.com/watch?v=gSMyLMZYjz8
+
+While you are downloading things you probably want these too
+
+https://github.com/microsoft/terminal
+
+https://docs.microsoft.com/en-us/windows/terminal/
+
+https://azure.microsoft.com/en-us/features/storage-explorer/
+
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
+Easy way to do this is via a choco install but that is for bonus points
+
+https://chocolatey.org/
+
+---
+
+
+
+
 
