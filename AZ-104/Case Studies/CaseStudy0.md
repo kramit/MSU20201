@@ -32,6 +32,9 @@ Difficulty Level 2: Create a Docker Container based solution and deploy to a web
 
 Difficulty Level 3: Host the Docker Container solution via Azure Container Registries and pull into an Azure ACI solution.
 
+Diffuculty Level 3 example https://docs.microsoft.com/en-gb/azure/container-instances/container-instances-tutorial-prepare-app
+
+
 ## Load Balancing and Geo-redundent access
 
 Contoso Coffee will operate in London and New York, because of this a solution will need to be configured that allows the US users to access a more local server than London and vice versa. Load balancing can be achieved through DNS redirection or a geo-loadbalanced solution 
