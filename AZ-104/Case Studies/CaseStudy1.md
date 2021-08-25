@@ -23,7 +23,7 @@ data for these requirements will be provided by Acme internally and configured p
 
 ## Security requirements
 
-The FTP and HTTP/S sites will be be required to be protected by a Web Application Gateway and Firewall solution restricting external access only to ports 80/21/443.
+The FTP and HTTP/S sites will be be required to be protected by a Firewall solution restricting external access only to ports 80/21/443.
 
 Remote access cannot be performed over the public internet, only via an additional jump-box or bastion host access. (For bonus points attempt a remote access solution using a 3rd party tool hosted in Azure e.g. https://guacamole.apache.org/ )
 
