@@ -29,7 +29,7 @@ Remote access cannot be performed over the public internet, only via an addition
 
 ## Logs (bonus points)
 
-For bonus points set up logging for the WAG to a Log Analytics Workspace and quite a Kusto query to create a dashboard widget for network traffic
+For bonus points set up logging for the Firewall to a Log Analytics Workspace and quite a Kusto query to create a dashboard widget for network traffic
 
 https://docs.microsoft.com/en-us/azure/application-gateway/log-analytics
 
